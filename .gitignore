@@ -1,0 +1,15 @@
+# Исходные данные и задание не публикуем
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE и система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
